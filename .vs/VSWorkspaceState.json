@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Fraction"
+    "\\Fraction",
+    "\\Fraction\\se1"
   ],
   "SelectedNode": "\\Fraction\\Program.cs",
   "PreviewInSolutionExplorer": false
